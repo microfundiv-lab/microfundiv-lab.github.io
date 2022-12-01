@@ -4,8 +4,7 @@ title: Home
 
 # Microbiome Function and Diversity lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Team website of the Microbiome Function and Diversity lab at the University of Cambridge, led by Alexandre Almeida. Website was created from the [Lab Website Template](https://github.com/greenelab/lab-website-template) by the [greene lab](https://www.greenelab.com/).
 
 {%
   include link.html
