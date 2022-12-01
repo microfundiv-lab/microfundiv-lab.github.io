@@ -4,24 +4,8 @@ title: Home
 
 # Microbiome Function and Diversity lab
 
-Website of the Microbiome Function and Diversity lab at the University of Cambridge, led by [Dr Alexandre Almeida](https://www.vet.cam.ac.uk/staff/dr-alexandre-almeida). Website was created using the [template](https://github.com/greenelab/lab-website-template) by the [greene lab](https://www.greenelab.com/).
+Website of the Microbiome Function and Diversity lab at the University of Cambridge, led by [Dr Alexandre Almeida](https://www.vet.cam.ac.uk/staff/dr-alexandre-almeida).
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
