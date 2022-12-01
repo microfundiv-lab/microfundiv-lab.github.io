@@ -17,8 +17,7 @@ Website of the Microbiome Function and Diversity lab at the University of Cambri
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focus is on the study of the uncultured microbiome to better understand its role in human health and disease. We apply large-scale computational methods to obtain biological insights into the hidden bacterial and viral diversity within the intestinal microbiome.
 
 {%
   include link.html
@@ -39,30 +38,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a small, but diverse team. Click below if you want to find out more about our individual research interests.
 
 {%
   include link.html
@@ -81,6 +57,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
