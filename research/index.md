@@ -7,10 +7,15 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The study of the human gut microbiome has emerged as a new frontier of biomedical research. With the advent of high-throughput DNA sequencing, a strong link between the human gut microbiome composition and various aspects of human health is being increasingly recognized. However, thousands of bacterial species and viruses in the human gut microbiome are largely unknown, as they remain difficult to culture and experimentally characterize in vitro. This technical limitation represents a major hurdle to understanding the biological mechanisms and beneficial role of the gut microbiome in host health.
+
+Funded by an MRC Career Development Award, our research group combines computational and experimental approaches to understand the biological role of hidden gut-associated microbial diversity across multiple kingdoms (including bacteria, viruses and archaea), and to explore their antimicrobial potential. 
+Our main focus areas are:
+
+Applying large-scale (meta)genomics techniques to investigate health-associated features and host-adaptive traits of the uncultured microbiome.
+Develop targeted methods to cultivate novel members of the gut microbiome and enable further mechanistic investigations.
+Combine in silico predictions with experimental validation to discover new gut-derived compounds with antimicrobial activity.
+By providing an integrated view of the physiology and functions of the commensal microbiome, we seek to improve our understanding of their role in human health and open new avenues to develop innovative therapeutic applications.
 
 {% include section.html %}
 
