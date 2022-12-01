@@ -48,18 +48,8 @@ Cambridge, CB3 0ES
 United Kingdom
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/department.jpg"
+  caption="Department of Veterinary Medicine (University of Cambridge)"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
