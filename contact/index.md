@@ -14,9 +14,9 @@ We are located on the 1st floor of the main building.
   include link.html
   type="email"
   icon=""
-  text="aa2369@cam.ac.uk.com"
+  text="aa2369@cam.ac.uk"
   tooltip=""
-  link="aa2369@cam.ac.uk.com"
+  link="aa2369@cam.ac.uk"
   style="button"
 %}
 {%
