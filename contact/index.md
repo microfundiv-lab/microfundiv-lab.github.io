@@ -50,6 +50,6 @@ United Kingdom
 
 {%
   include figure.html
-  image="images/vetschool.jpg"
+  image="images/department.jpg"
   caption="Department of Veterinary Medicine (University of Cambridge)"
 %}
