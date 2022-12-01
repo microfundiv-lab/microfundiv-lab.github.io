@@ -1,67 +1,99 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41586-019-0965-1
+  title: A new genomic blueprint of the human gut microbiota
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Alexandre Almeida
+  - Alex L. Mitchell
+  - Miguel Boland
+  - Samuel C. Forster
+  - Gregory B. Gloor
+  - Aleksandra Tarkowska
+  - Trevor D. Lawley
+  - Robert D. Finn
+  publisher: Nature
+  date: '2019-02-11'
+  link: https://doi.org/gfvfd8
+  _cache: db29337783845cd1d5df1828ca82878e7a78e6e8044fe6fc7feb1cb528032be4
+- id: doi:10.1038/s41587-020-0603-3
+  title: A unified catalog of 204,938 reference genomes from the human gut microbiome
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Alexandre Almeida
+  - Stephen Nayfach
+  - Miguel Boland
+  - Francesco Strozzi
+  - Martin Beracochea
+  - Zhou Jason Shi
+  - Katherine S. Pollard
+  - Ekaterina Sakharova
+  - Donovan H. Parks
+  - Philip Hugenholtz
+  - Nicola Segata
+  - Nikos C. Kyrpides
+  - Robert D. Finn
+  publisher: Nature Biotechnology
+  date: '2020-07-20'
+  link: https://doi.org/gg5hgn
+  _cache: 402f02e66276fe99a5517feefd7ebe5664a8d16488767aaa8d42deb7212dc6b5
+- id: doi:10.1038/s41587-018-0009-7
+  title: A human gut bacterial genome and culture collection for improved metagenomic
+    analyses
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Samuel C. Forster
+  - Nitin Kumar
+  - Blessing O. Anonye
+  - Alexandre Almeida
+  - Elisa Viciani
+  - Mark D. Stares
+  - Matthew Dunn
+  - Tapoka T. Mkandawire
+  - Ana Zhu
+  - Yan Shao
+  - Lindsay J. Pike
+  - Thomas Louie
+  - Hilary P. Browne
+  - Alex L. Mitchell
+  - B. Anne Neville
+  - Robert D. Finn
+  - Trevor D. Lawley
+  publisher: Nature Biotechnology
+  date: '2019-02-01'
+  link: https://doi.org/ggwqhg
+  _cache: 0665e7a2cb55e7a35cc653724c80fd0e1a75e6976245c445ec54462f540f496a
+- id: doi:10.1016/j.cell.2021.01.029
+  title: Massive expansion of human gut bacteriophage diversity
+  authors:
+  - Luis F. Camarillo-Guerrero
+  - Alexandre Almeida
+  - Guillermo Rangel-Pineros
+  - Robert D. Finn
+  - Trevor D. Lawley
+  publisher: Cell
+  date: '2021-02-01'
+  link: https://doi.org/gh328x
+  _cache: 4161a858702355903092bd371c62760ba496a2ae39f5e565c2e80f9b5b92d1b7
+- id: doi:10.1093/nar/gkz1035
+  title: 'MGnify: the microbiome analysis resource in 2020'
+  authors:
+  - Alex L Mitchell
+  - Alexandre Almeida
+  - Martin Beracochea
+  - Miguel Boland
+  - Josephine Burgin
+  - Guy Cochrane
+  - Michael R Crusoe
+  - Varsha Kale
+  - Simon C Potter
+  - Lorna J Richardson
+  - Ekaterina Sakharova
+  - Maxim Scheremetjew
+  - Anton Korobeynikov
+  - Alex Shlemov
+  - Olga Kunyavskaya
+  - Alla Lapidus
+  - Robert D Finn
+  publisher: Nucleic Acids Research
+  date: '2019-11-07'
+  link: https://doi.org/ggctnm
+  _cache: eccd3ba75e219a5742100726d10496586712d2429eca8eb579c564e5b0f24008
