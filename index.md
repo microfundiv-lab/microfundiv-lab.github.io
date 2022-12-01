@@ -10,6 +10,8 @@ Website of the Microbiome Function and Diversity lab at the University of Cambri
 
 {% include section.html full=true %}
 
+{% include microdna.html image="images/microdna.jpg" %}
+
 {% include section.html %}
 
 # Highlights
