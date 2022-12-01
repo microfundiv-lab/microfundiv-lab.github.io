@@ -12,9 +12,10 @@ The study of the human gut microbiome has emerged as a new frontier of biomedica
 Funded by an [MRC Career Development Award](https://www.ukri.org/councils/mrc/fellowships/fellowship-opportunities-and-expectations/mrc-funded-fellowships/), our research group combines computational and experimental approaches to understand the biological role of hidden gut-associated microbial diversity across multiple kingdoms (including bacteria, viruses and archaea), and to explore their antimicrobial potential. 
 Our main focus areas are:
 
-Applying large-scale (meta)genomics techniques to investigate health-associated features and host-adaptive traits of the uncultured microbiome.
-Develop targeted methods to cultivate novel members of the gut microbiome and enable further mechanistic investigations.
-Combine in silico predictions with experimental validation to discover new gut-derived compounds with antimicrobial activity.
+* Applying large-scale (meta)genomics techniques to investigate health-associated features and host-adaptive traits of the uncultured microbiome.
+* Develop targeted methods to cultivate novel members of the gut microbiome and enable further mechanistic investigations.
+* Combine in silico predictions with experimental validation to discover new gut-derived compounds with antimicrobial activity.
+
 By providing an integrated view of the physiology and functions of the commensal microbiome, we seek to improve our understanding of their role in human health and open new avenues to develop innovative therapeutic applications.
 
 {% include section.html %}
