@@ -31,7 +31,7 @@ Our research focus is on the study of the uncultured microbiome to better unders
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tree.png"
   link="research"
   title="Our Research"
   text=text
@@ -52,7 +52,7 @@ We are a small, but diverse team. Click below if you want to find out more about
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
