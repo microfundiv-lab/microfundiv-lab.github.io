@@ -15,7 +15,8 @@
   publisher: Nature
   date: '2019-02-11'
   link: https://doi.org/gfvfd8
-  _cache: db29337783845cd1d5df1828ca82878e7a78e6e8044fe6fc7feb1cb528032be4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-0965-1/MediaObjects/41586_2019_965_Fig1_HTML.png
+  _cache: 35c5b1e19df0da60325f0f77cd22161352be47f561413c81a5d7456cc7274b17
 - id: doi:10.1038/s41587-020-0603-3
   title: A unified catalog of 204,938 reference genomes from the human gut microbiome
   authors:
@@ -35,7 +36,8 @@
   publisher: Nature Biotechnology
   date: '2020-07-20'
   link: https://doi.org/gg5hgn
-  _cache: 402f02e66276fe99a5517feefd7ebe5664a8d16488767aaa8d42deb7212dc6b5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-020-0603-3/MediaObjects/41587_2020_603_Fig1_HTML.png
+  _cache: 1dac004791d56e7e3742cee1281e1743b267270f3c45041d09f0e07c706bc098
 - id: doi:10.1038/s41587-018-0009-7
   title: A human gut bacterial genome and culture collection for improved metagenomic
     analyses
@@ -60,7 +62,8 @@
   publisher: Nature Biotechnology
   date: '2019-02-01'
   link: https://doi.org/ggwqhg
-  _cache: 0665e7a2cb55e7a35cc653724c80fd0e1a75e6976245c445ec54462f540f496a
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-018-0009-7/MediaObjects/41587_2018_9_Fig1_HTML.png
+  _cache: 0764cd20da911728b8895ec3a979fc457da45fcbd99c6cab092e4250f6897375
 - id: doi:10.1016/j.cell.2021.01.029
   title: Massive expansion of human gut bacteriophage diversity
   authors:
@@ -72,7 +75,8 @@
   publisher: Cell
   date: '2021-02-01'
   link: https://doi.org/gh328x
-  _cache: 4161a858702355903092bd371c62760ba496a2ae39f5e565c2e80f9b5b92d1b7
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421000726-fx1.jpg
+  _cache: 89c5efa762515c014da32db7db6fda0dfaeb41e5296f47f1b75515a5179a1d4f
 - id: doi:10.1093/nar/gkz1035
   title: 'MGnify: the microbiome analysis resource in 2020'
   authors:
@@ -96,7 +100,8 @@
   publisher: Nucleic Acids Research
   date: '2019-11-07'
   link: https://doi.org/ggctnm
-  _cache: eccd3ba75e219a5742100726d10496586712d2429eca8eb579c564e5b0f24008
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz1035/1/m_gkz1035fig1.jpeg?Expires=1672865399&Signature=AQn2BJOUlvNlf3J4nTIRD-gEEDHHaaKKL0gDN2D6hF7PmaE~b7MSgndub0nef4wYhgI0gDWp1WBnhbMALbczr9bcAnIy3lJHpkEvWTUzjrTbbdxCxAAD7eUiWAVyxvuJs3HQmnBEFf6NZVUd1YFid~whG0o9gCxdUn~RBtA3aZGeMEdoF5KJDfacXIArYGA4NbO9VWxyWfiaemDVWZoU0iov1K-Wjt7jIPbNdYBNy86~ZOa-Jn4-r1btOndAZijhHyYYaSqnK0gxdXOke38i3-a6mvC1jJIhyVfnWUXvkogzxGb5Jmq1BpAJ-AHndGJC-3BnsogdgLwgNaLteyHQ3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 516011c12b9072bc897728622e893373a2208536f331afa8509d9e4359f48fa9
 - id: doi:10.1038/s41467-019-08844-4
   title: Microbial abundance, activity and population genomic profiling with mOTUs2
   authors:
