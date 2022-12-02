@@ -19,7 +19,7 @@ Alex is an MRC Career Development Fellow leading the Microbiome Function and Div
 
 {%
   include feature.html
-  image="images/alex.jpg"
+  image="images/alexalmeida.jpg"
   link="research"
   title="Alexandre Almeida, Group Leader"
   text=text
@@ -33,6 +33,6 @@ Placeholder
   include feature.html
   image="images/team.png"
   link="team"
-  title="Qi Yin, Visitor Scholar"
+  title="Qi Yin, Postdoc"
   text=text
 %}
