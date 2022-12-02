@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Veterinary Medicine](https://www.vet.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
+Our lab is based in the [Department of Veterinary Medicine](https://www.vet.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
 We are located on the 1st floor of the main building.
 
 {%
