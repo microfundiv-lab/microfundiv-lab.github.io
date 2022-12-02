@@ -15,18 +15,19 @@ If you are interested in joining our team feel free to get in touch with a CV an
 
 {% capture text %}
 Alex is an MRC Career Development Fellow leading the Microbiome Function and Diversity group at the University of Cambridge. His team focuses on understanding the role that the uncultured microbiome plays in human health and disease. He obtained his PhD in Microbiology at the Institut Pasteur in Paris, studying the opportunistic pathogen group B Streptococcus. After his PhD, he relocated to Cambridge with an EBI-Sanger Postdoctoral Fellowship to expand his research to metagenomic studies of the human gut microbiome. Using computational genomic methods, his work contributed to the discovery of thousands of uncultivated bacterial species in the human gut microbiome, more than tripling the number of gut-associated species previously known.
+{% endcapture %}
 
 {%
   include feature.html
-  image="images/tree.png"
+  image="images/alex.jpg"
   link="research"
   title="Alexandre Almeida, Group Leader"
   text=text
 %}
-{% endcapture %}
 
 {% capture text %}
 Placeholder
+{% endcapture %}
 
 {%
   include feature.html
