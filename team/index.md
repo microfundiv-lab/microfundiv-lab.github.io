@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-If you are interested in joining our team feel free to [get in touch](https://microfundiv-lab.github.io/contact/) with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. Additional info on the application process for the PhD in Biological Sciences at the University of Cambridge can be found [here](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvvtpdveb/apply).
+If you are interested in joining our team feel free to [get in touch](https://microfundiv-lab.github.io/contact/) with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. If you are interested in pursuing a PhD, additional info on the application process for the PhD in Biological Sciences at the University of Cambridge can be found [here](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvvtpdveb/apply).
 
 {% include section.html %}
 
