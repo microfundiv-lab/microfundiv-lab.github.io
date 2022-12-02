@@ -21,7 +21,7 @@ Alex is an MRC Career Development Fellow leading the Microbiome Function and Div
   include feature.html
   image="images/alexalmeida.jpg"
   link="research"
-  title="Alexandre Almeida, Group Leader"
+  title="Alexandre Almeida (Group Leader)"
   text=text
 %}
 
@@ -33,6 +33,6 @@ Qi is a visiting postdoc in the Microbiome Function and Diversity group interest
   include feature.html
   image="images/blank_profile.png"
   link="team"
-  title="Qi Yin, Postdoc"
+  title="Qi Yin (Postdoc)"
   text=text
 %}
