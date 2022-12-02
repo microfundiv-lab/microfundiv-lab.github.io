@@ -14,24 +14,67 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/D1/10.1093_nar_gkz1035/1/m_gkz1035fig1.jpeg?Expires=1672865399&Signature=AQn2BJOUlvNlf3J4nTIRD-gEEDHHaaKKL0gDN2D6hF7PmaE~b7MSgndub0nef4wYhgI0gDWp1WBnhbMALbczr9bcAnIy3lJHpkEvWTUzjrTbbdxCxAAD7eUiWAVyxvuJs3HQmnBEFf6NZVUd1YFid~whG0o9gCxdUn~RBtA3aZGeMEdoF5KJDfacXIArYGA4NbO9VWxyWfiaemDVWZoU0iov1K-Wjt7jIPbNdYBNy86~ZOa-Jn4-r1btOndAZijhHyYYaSqnK0gxdXOke38i3-a6mvC1jJIhyVfnWUXvkogzxGb5Jmq1BpAJ-AHndGJC-3BnsogdgLwgNaLteyHQ3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1038/s41467-019-08844-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-08844-4/MediaObjects/41467_2019_8844_Fig1_HTML.png
+
 - id: doi:10.1111/1462-2920.13550
+  image: https://sfamjournals.onlinelibrary.wiley.com/cms/asset/8afc6fde-3e5f-46bf-9b29-b445d927aae3/emi13550-fig-0001-m.jpg
+
 - id: doi:10.1093/bib/bbaa232
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/22/2/10.1093_bib_bbaa232/2/m_bbaa232f3.jpeg?Expires=1672859645&Signature=EX0vocrS~unhVVjs1v0OTlhsMOV0PISj6alOp6q1m8VmeE25pHlRjzU9Tq8c3iMkkvEkB42hXDRIv-DMolI-59R~3QfSwvbaoTZeEOz7tOVTO6ngLpQEP7CM~HUZJzP1PbxowxieuM7UNPvncPBDT9bPTzRj708LPxPQashvrfFpuK0awdytxrKNxxO88qbgJPc--EK07jo6kkgzwgPEyDQr~oe3JmE9mCuAcmQ1hxuM~alrVF08CSLX6eqCLV4RcORz~9N1ThSdhCOBKh4ZSw1Ff4usQYexH1pOrtGjbowQuKKs-XYNYN2Q2aBTbYDn2OjA5M2f3E1GUxZER5iH0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
 - id: doi:10.1093/gigascience/giy054
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/5/10.1093_gigascience_giy054/1/m_giy054fig5.jpeg?Expires=1672896123&Signature=jxR94T8dKcITNhoVvKvgL4RUuJHbXBhSs1~ntizcrpsqWyEmJMl4h-mdF37NinmUDsp2OzfQjB17bSBmFjAxbSL257Kt3PMJj9JHhCBO3OC~fhHW~8FtIseg9LzPK8XV4-yJHALckhph5hAocHEiXdnposimsiq6H2Y-wJ~jgYDtuSSloeeNJl2HspGjEej8znnF98S76B7Fn~H80bzbPMq8XfHSVUNzcXVnuSt8rIoqr-~eAsNuJvnhUqfiS4Xdw5c~skih3RuNe5rlVgRz7tzcdvjgorCnfb0loiBl-LOrHMGrlgOhhHSsyZfgtdocTOIJNskEhzv0mWy7FfLBBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
 - id: doi:10.1186/s12864-020-06807-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-020-06807-4/MediaObjects/12864_2020_6807_Fig1_HTML.png?as=webp
+
 - id: doi:10.1128/JB.00429-15
+  image: https://journals.asm.org/cms/10.1128/JB.00429-15/asset/f046da3f-2eb0-4404-97f8-1e474cc29c04/assets/graphic/zjb9990937810005.jpeg
+
 - id: doi:10.1128/mSystems.00074-17
+  image: https://journals.asm.org/cms/10.1128/mSystems.00074-17/asset/ede9f48e-7b2d-423b-8e47-a358c062a86d/assets/graphic/sys0051721320001.jpeg
+
 - id: doi:10.1016/j.vetmic.2013.03.011
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378113513001703-gr1.jpg
+
 - id: doi:10.1038/s41564-021-01011-w
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-021-01011-w/MediaObjects/41564_2021_1011_Fig1_HTML.png
+
 - id: doi:10.1038/s41564-021-01020-9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-021-01020-9/MediaObjects/41564_2021_1020_Fig1_HTML.png
+
 - id: doi:10.1093/nar/gky1013
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/47/D1/10.1093_nar_gky1013/1/m_gky1013fig3.jpeg?Expires=1672920336&Signature=VTOIvZ-7BNkVTpym5evdDzJz99pbOA73SENVEe40MxQ78pvjyLlInFZ6PIuXbTEPrP7TByRTEgdU3GiMjqG~4hJSAlXGy269doLIqSwLenuAMa5hguiobHekLP5UKgQzaOAd2APnDKaqTxoWQPx6uS8CYM3M8olQYO2aE5Me8EnfubI9-ghhYIRO9HvXdN6~E631S6xCO8kK2ZCwdZL63oPYhtG-Lyuj01B3Q4feMTL2OoH9kNyFqpRAl-vCP-7oLK02xVDmCS5QMcXCz94tvnl1551Cj84G4t0~v1kdt08szIlP2PVx5z63GubpHRKJhPLVbhm3ZDBpqNJ9-uFnIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
 - id: doi:10.1016/j.chom.2021.12.003
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763404/bin/fx1.jpg
+
 - id: doi:10.3389/fimmu.2020.593838
+  image: https://www.frontiersin.org/files/Articles/593838/fimmu-11-593838-HTML/image_m/fimmu-11-593838-g001.jpg
+
 - id: doi:10.1186/s13059-021-02428-6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02428-6/MediaObjects/13059_2021_2428_Fig1_HTML.png
+
 - id: doi:10.3389/fmicb.2017.00054
+  image: https://www.frontiersin.org/files/Articles/221404/fmicb-08-00054-HTML/image_m/fmicb-08-00054-g001.jpg
+
 - id: doi:10.3389/fmicb.2021.803896
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767016/bin/fmicb-12-803896-g001.jpg
+
 - id: doi:10.1128/JB.00650-18
+  image: https://journals.asm.org/cms/10.1128/JB.00650-18/asset/324599d2-ce9a-4c6d-a1d1-989d0973d58a/assets/graphic/jb.00650-18-f0001.jpeg
+
 - id: doi:10.1038/s41596-021-00508-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41596-021-00508-2/MediaObjects/41596_2021_508_Fig1_HTML.png
+
 - id: doi:10.1038/nrmicro.2018.13
+  image: https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fnrmicro.2018.13/MediaObjects/41579_2018_Article_BFnrmicro201813_Figa_HTML.jpg
+
 - id: doi:10.1038/s41467-022-32805-z
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32805-z/MediaObjects/41467_2022_32805_Fig1_HTML.png
+
 - id: doi:10.1186/s40168-021-01207-6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40168-021-01207-6/MediaObjects/40168_2021_1207_Fig1_HTML.png?as=webp
+
 - id: doi:10.1101/2022.08.22.504484
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/08/22/2022.08.22.504484/F1.large.jpg
