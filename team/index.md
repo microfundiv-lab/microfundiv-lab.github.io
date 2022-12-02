@@ -26,7 +26,7 @@ Alex is an MRC Career Development Fellow leading the Microbiome Function and Div
 %}
 
 {% capture text %}
-Placeholder
+Qi is a visiting postdoc in the Microbiome Function and Diversity group interested in the discovery of novel probiotics and antimicrobials in the human gut microbiome. She finished her PhD in 2016 at the University of Chinese Academy Sciences and was a postdoc until 2020 when she began her appointment as an Associate Professor at the Chongqing Medical University. Her current research interests centre around the study of host-microbe interactions in the lung/gut microbiome, the molecular mechanisms of bacterial infection and development of novel antimicrobial agents.
 {% endcapture %}
 
 {%
