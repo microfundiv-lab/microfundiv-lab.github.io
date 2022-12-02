@@ -31,7 +31,7 @@ Placeholder
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/blank_profile.png"
   link="team"
   title="Qi Yin, Postdoc"
   text=text
