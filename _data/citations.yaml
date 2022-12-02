@@ -126,7 +126,8 @@
   publisher: Nature Communications
   date: '2019-03-04'
   link: https://doi.org/gfwktp
-  _cache: 9651f15ed511ec46278ddbeb342835feff6db9c28abd25e38f924ff2c40af2e0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-08844-4/MediaObjects/41467_2019_8844_Fig1_HTML.png
+  _cache: 4fccbd95ecf4b9e5798cbe150b96e419cfe878f04f5a1eb5068eb88244b39880
 - id: doi:10.1111/1462-2920.13550
   title: Persistence of a dominant bovine lineage of group B<i>S</i><i>treptococcus</i>reveals
     genomic signatures of host adaptation
@@ -142,7 +143,8 @@
   publisher: Environmental Microbiology
   date: '2016-10-25'
   link: https://doi.org/f9c46g
-  _cache: ecefd77c5ccba9654aac5bff43f0b561aa3c37f22a8de5cff036987dc64da5cd
+  image: https://sfamjournals.onlinelibrary.wiley.com/cms/asset/8afc6fde-3e5f-46bf-9b29-b445d927aae3/emi13550-fig-0001-m.jpg
+  _cache: 5d4321b9270ade2c58845ef0736b8eeb5710f5d8fe4f05b8814d21da0c85ae1b
 - id: doi:10.1093/bib/bbaa232
   title: 'Computational strategies to combat COVID-19: useful tools to accelerate
     SARS-CoV-2 and coronavirus research'
@@ -205,7 +207,8 @@
   publisher: Briefings in Bioinformatics
   date: '2020-11-04'
   link: https://doi.org/ghktks
-  _cache: a9deff20a222a0572baee15f836a8a02036c0bcb553fe13d35d334a5da2534b2
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/22/2/10.1093_bib_bbaa232/2/m_bbaa232f3.jpeg?Expires=1672859645&Signature=EX0vocrS~unhVVjs1v0OTlhsMOV0PISj6alOp6q1m8VmeE25pHlRjzU9Tq8c3iMkkvEkB42hXDRIv-DMolI-59R~3QfSwvbaoTZeEOz7tOVTO6ngLpQEP7CM~HUZJzP1PbxowxieuM7UNPvncPBDT9bPTzRj708LPxPQashvrfFpuK0awdytxrKNxxO88qbgJPc--EK07jo6kkgzwgPEyDQr~oe3JmE9mCuAcmQ1hxuM~alrVF08CSLX6eqCLV4RcORz~9N1ThSdhCOBKh4ZSw1Ff4usQYexH1pOrtGjbowQuKKs-XYNYN2Q2aBTbYDn2OjA5M2f3E1GUxZER5iH0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 2017a5766bf3c39a5a783d9ac2dfbe0498397c9e15dc1208ea359525aad607cd
 - id: doi:10.1093/gigascience/giy054
   title: Benchmarking taxonomic assignments based on 16S rRNA gene profiling of the
     microbiota from commonly sampled environments
@@ -217,7 +220,8 @@
   publisher: GigaScience
   date: '2018-05-01'
   link: https://doi.org/gfb5j7
-  _cache: 07139f3c9b469f81f94d6fef0cf7575e832cc2e41567e21f861fef9f13c41299
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/5/10.1093_gigascience_giy054/1/m_giy054fig5.jpeg?Expires=1672896123&Signature=jxR94T8dKcITNhoVvKvgL4RUuJHbXBhSs1~ntizcrpsqWyEmJMl4h-mdF37NinmUDsp2OzfQjB17bSBmFjAxbSL257Kt3PMJj9JHhCBO3OC~fhHW~8FtIseg9LzPK8XV4-yJHALckhph5hAocHEiXdnposimsiq6H2Y-wJ~jgYDtuSSloeeNJl2HspGjEej8znnF98S76B7Fn~H80bzbPMq8XfHSVUNzcXVnuSt8rIoqr-~eAsNuJvnhUqfiS4Xdw5c~skih3RuNe5rlVgRz7tzcdvjgorCnfb0loiBl-LOrHMGrlgOhhHSsyZfgtdocTOIJNskEhzv0mWy7FfLBBA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 51922c5ae1fea3d8eab07eb800bec5a238c902eefc272b3990b91a47a57e0368
 - id: doi:10.1186/s12864-020-06807-4
   title: Phylogenomics of expanding uncultured environmental Tenericutes provides
     insights into their pathogenicity and evolutionary relationship with Bacilli
@@ -232,7 +236,8 @@
   publisher: BMC Genomics
   date: '2020-06-17'
   link: https://doi.org/gqk7kw
-  _cache: bc36d75a1d38abfaba5157d66078e84378e050e3105707f348d5ceaa31ff2331
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-020-06807-4/MediaObjects/12864_2020_6807_Fig1_HTML.png?as=webp
+  _cache: 9cec43527b9385ebadd22d12f99ff6ce94edc343bcc5463831a3bb2b839f1b49
 - id: doi:10.1128/JB.00429-15
   title: Whole-Genome Comparison Uncovers Genomic Mutations between Group B Streptococci
     Sampled from Infected Newborns and Their Mothers
@@ -248,7 +253,8 @@
   publisher: Journal of Bacteriology
   date: '2015-10-15'
   link: https://doi.org/f75kqz
-  _cache: 9c4237299ae5d726e2024d817d10a9ccb41c052fa0af06cec5f4a1b0320bb2d7
+  image: https://journals.asm.org/cms/10.1128/JB.00429-15/asset/f046da3f-2eb0-4404-97f8-1e474cc29c04/assets/graphic/zjb9990937810005.jpeg
+  _cache: 4b8e2f7937d357a6a516063ecb342689b193787fd23460de484e414098794e79
 - id: doi:10.1128/mSystems.00074-17
   title: "Parallel Evolution of Group B\n            <i>Streptococcus</i>\n      \
     \      Hypervirulent Clonal Complex 17 Unveils New Pathoadaptive Mutations"
@@ -263,7 +269,8 @@
   publisher: mSystems
   date: '2017-10-31'
   link: https://doi.org/gk6mk4
-  _cache: 29589bdc50a83069cc96c456763344e666945d2b88d468f040c724e75dabcdc5
+  image: https://journals.asm.org/cms/10.1128/mSystems.00074-17/asset/ede9f48e-7b2d-423b-8e47-a358c062a86d/assets/graphic/sys0051721320001.jpeg
+  _cache: 28664204106aba02d4e31b08b4dd8464f895385feaf746b92a8a611a6e39f6ee
 - id: doi:10.1016/j.vetmic.2013.03.011
   title: Detection and discrimination of common bovine mastitis-causing streptococci
   authors:
@@ -275,7 +282,8 @@
   publisher: Veterinary Microbiology
   date: '2013-06-01'
   link: https://doi.org/f4zv6d
-  _cache: a241ef84977cd8566647d1ff918a86ce3e4f09f7101af25f66727c0e17023c93
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378113513001703-gr1.jpg
+  _cache: 9c00b3571e846c693d5cd9d048433bc25b163ce033faad0004b8c9c77cf975ec
 - id: doi:10.1038/s41564-021-01011-w
   title: Integrating cultivation and metagenomics for a multi-kingdom view of skin
     microbiome diversity and functions
@@ -319,7 +327,8 @@
   publisher: Nature Microbiology
   date: '2021-12-24'
   link: https://doi.org/gqm76x
-  _cache: c8fe68ec54c393bde1b3eab2e6ccce6673cbd61b6da12a98873526ddaad08280
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-021-01011-w/MediaObjects/41564_2021_1011_Fig1_HTML.png
+  _cache: adc52528f8813325df35d0754d256270d6df395ef8d6ed4bdeefb572c5bc49ba
 - id: doi:10.1038/s41564-021-01020-9
   title: A catalogue of 1,167 genomes from the human gut archaeome
   authors:
@@ -336,7 +345,8 @@
   publisher: Nature Microbiology
   date: '2021-12-30'
   link: https://doi.org/gn8gqj
-  _cache: f1656a07ff8f94333e47d0bdeeb5d4749f6992f37571e77d8c7e027d7bd2278c
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-021-01020-9/MediaObjects/41564_2021_1020_Fig1_HTML.png
+  _cache: 906dd33929ecf143e17146a73b5391c4401a8e26598980b24e177dd38693f975
 - id: doi:10.1093/nar/gky1013
   title: 'Genome properties in 2019: a new companion database to InterPro for the
     inference of complete functional attributes'
@@ -352,7 +362,8 @@
   publisher: Nucleic Acids Research
   date: '2018-10-26'
   link: https://doi.org/grcts9
-  _cache: 6ee56df3cbab986b4cdc9ff0dc67297b68e21496e5bca0c4b34a639234f907cf
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/47/D1/10.1093_nar_gky1013/1/m_gky1013fig3.jpeg?Expires=1672920336&Signature=VTOIvZ-7BNkVTpym5evdDzJz99pbOA73SENVEe40MxQ78pvjyLlInFZ6PIuXbTEPrP7TByRTEgdU3GiMjqG~4hJSAlXGy269doLIqSwLenuAMa5hguiobHekLP5UKgQzaOAd2APnDKaqTxoWQPx6uS8CYM3M8olQYO2aE5Me8EnfubI9-ghhYIRO9HvXdN6~E631S6xCO8kK2ZCwdZL63oPYhtG-Lyuj01B3Q4feMTL2OoH9kNyFqpRAl-vCP-7oLK02xVDmCS5QMcXCz94tvnl1551Cj84G4t0~v1kdt08szIlP2PVx5z63GubpHRKJhPLVbhm3ZDBpqNJ9-uFnIA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: e35ebd3d445095420b0a7118507095439fe7a0c191d983d70d42bf626d37bbf7
 - id: doi:10.1016/j.chom.2021.12.003
   title: The Mouse Gastrointestinal Bacteria Catalogue enables translation between
     the mouse and human gut microbiotas via functional mapping
@@ -374,7 +385,8 @@
   publisher: Cell Host &amp; Microbe
   date: '2022-01-01'
   link: https://doi.org/grcttb
-  _cache: 9a1306e9961d2e480aa6e0266594353071935d56fc39fdc2ca436b9aab9a586b
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763404/bin/fx1.jpg
+  _cache: 5e065be9616347002409218327e62eeb1fc7edd8c7e517086cf2b572c395c7bd
 - id: doi:10.3389/fimmu.2020.593838
   title: Baseline Gut Microbiota Composition Is Associated With Schistosoma mansoni
     Infection Burden in Rodent Models
@@ -396,7 +408,8 @@
   publisher: Frontiers in Immunology
   date: '2020-11-18'
   link: https://doi.org/grcttc
-  _cache: 9e073e9c92a4cad2cf86b3d6459373e1fd74adfe8b45135ec8d845f79ca6b85e
+  image: https://www.frontiersin.org/files/Articles/593838/fimmu-11-593838-HTML/image_m/fimmu-11-593838-g001.jpg
+  _cache: b57768db59cf0c3d37b824220842146fb69f2fa8033190bc72c9b77a9eb57b45
 - id: doi:10.1186/s13059-021-02428-6
   title: Host adaptation in gut Firmicutes is associated with sporulation loss and
     altered transmission cycle
@@ -415,7 +428,8 @@
   publisher: Genome Biology
   date: '2021-08-05'
   link: https://doi.org/grcttd
-  _cache: 72ea58578a483be82b99152c3d8e1ca8463ac06381f2c35a8a13d7da7dae6c56
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02428-6/MediaObjects/13059_2021_2428_Fig1_HTML.png
+  _cache: 5670372499017d9d45e996100e447b5bb277495e1b83ec3ee54b426e2bb1108b
 - id: doi:10.3389/fmicb.2017.00054
   title: Application of a Dot Blot Hybridization Platform to Assess Streptococcus
     uberis Population Structure in Dairy Herds
@@ -432,7 +446,8 @@
   publisher: Frontiers in Microbiology
   date: '2017-01-24'
   link: https://doi.org/grcttf
-  _cache: 527a92997b614824c63e10b560a5c5329b530f3edfcca95db978c4bac1be2e61
+  image: https://www.frontiersin.org/files/Articles/221404/fmicb-08-00054-HTML/image_m/fmicb-08-00054-g001.jpg
+  _cache: 77484e2c3002589f73d1f270e91ccbe4a1a5d2e68a2e573b97ce14981f81ca36
 - id: doi:10.3389/fmicb.2021.803896
   title: The Bacteroidetes Aequorivita sp. and Kaistella jeonii Produce Promiscuous
     Esterases With PET-Hydrolyzing Activity
@@ -459,7 +474,8 @@
   publisher: Frontiers in Microbiology
   date: '2022-01-05'
   link: https://doi.org/grcttg
-  _cache: 75d9429cc365c0ce76c43c9abc50097c3edb23feb409c03fda98e188396d6718
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8767016/bin/fmicb-12-803896-g001.jpg
+  _cache: b3f9e20ea7975e43bf7eb2ad4f52d3bf08eaf4a0e01d5df7443590c50fad06ad
 - id: doi:10.1128/JB.00650-18
   title: A Putative Type V Pilus Contributes to Bacteroides thetaiotaomicron Biofilm
     Formation Capacity
@@ -475,7 +491,8 @@
   publisher: Journal of Bacteriology
   date: '2019-09-15'
   link: https://doi.org/grctth
-  _cache: 507887b985afe33b979ac1da6dff0c9e781d569af09c741032f0bd5e7aea7e52
+  image: https://journals.asm.org/cms/10.1128/JB.00650-18/asset/324599d2-ce9a-4c6d-a1d1-989d0973d58a/assets/graphic/jb.00650-18-f0001.jpeg
+  _cache: 71cdf29afdd9bff08686a1dd04a1ba7a3881dcc660b533968c4b9ecf2f8da7ea
 - id: doi:10.1038/s41596-021-00508-2
   title: Recovering prokaryotic genomes from host-associated, short-read shotgun metagenomic
     sequencing data
@@ -487,7 +504,8 @@
   publisher: Nature Protocols
   date: '2021-04-16'
   link: https://doi.org/gn3m2d
-  _cache: dfa2b252b465667b6124570505b61d51b30a91e7f2ae141e2f75ba96627576d4
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41596-021-00508-2/MediaObjects/41596_2021_508_Fig1_HTML.png
+  _cache: 66ebce9b752893bbff270e1e85be35ebdbbb01f43518fa60fe9eefa4034df0e3
 - id: doi:10.1038/nrmicro.2018.13
   title: Keeping tally in the microbiome
   authors:
@@ -496,7 +514,8 @@
   publisher: Nature Reviews Microbiology
   date: '2018-01-30'
   link: https://doi.org/grcttj
-  _cache: 98e3e906ec874cef6e73c07fc5880f7dc43f109b0ac479553158c1d810c760bc
+  image: https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fnrmicro.2018.13/MediaObjects/41579_2018_Article_BFnrmicro201813_Figa_HTML.jpg
+  _cache: 96035c8e882b5da8af46cde0ee626e3e40e9e1d8b30d579c015ce5c29e2b682c
 - id: doi:10.1038/s41467-022-32805-z
   title: A compendium of 32,277 metagenome-assembled genomes and over 80 million genes
     from the early-life human gut microbiome
@@ -512,7 +531,8 @@
   publisher: Nature Communications
   date: '2022-09-01'
   link: https://doi.org/grcttk
-  _cache: 00c0c0099a87dd4476bcf142f4ba53918eaa83e6daf45b48b070d9b50224d7fd
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32805-z/MediaObjects/41467_2022_32805_Fig1_HTML.png
+  _cache: 78e5e3f891c1c4a4a64f8f46d555b8bc175aadbafbeccd932fe3fd2e8fc502b1
 - id: doi:10.1186/s40168-021-01207-6
   title: A mouse model of occult intestinal colonization demonstrating antibiotic-induced
     outgrowth of carbapenem-resistant Enterobacteriaceae
@@ -532,7 +552,8 @@
   publisher: Microbiome
   date: '2022-03-10'
   link: https://doi.org/grcttm
-  _cache: c91acf7b04b43bf1e6feee2cbc80268920e8aaf7b2798d31bac3bde6a2a52204
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40168-021-01207-6/MediaObjects/40168_2021_1207_Fig1_HTML.png?as=webp
+  _cache: a9c2666da1cff7ed1e4ac59fbd3670b416fded84fc229ba9e056664ce287cea2
 - id: doi:10.1101/2022.08.22.504484
   title: 'VIRify: an integrated detection, annotation and taxonomic classification
     pipeline using virus-specific protein profile hidden Markov models'
@@ -548,4 +569,5 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-08-22'
   link: https://doi.org/grcttn
-  _cache: 7ff36fabef9f345d4c6a14bdfdb5aa25b989a03e8584ae12b49b5af5dfd07421
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/08/22/2022.08.22.504484/F1.large.jpg
+  _cache: 410d918ea47e5534c96f1ac3a2e0befce020522416ea64f3e45463c678344ede
