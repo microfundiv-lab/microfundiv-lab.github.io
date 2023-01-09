@@ -31,7 +31,7 @@ Qi is a visiting postdoc in the Microbiome Function and Diversity group interest
 
 {%
   include feature.html
-  image="images/blank_profile.png"
+  image="images/qiyin.jpeg"
   link="team"
   title="Qi Yin (Postdoc)"
   text=text
