@@ -15,7 +15,7 @@ Website of the Microbiome Function and Diversity lab at the University of Cambri
 {% include section.html %}
 
 {% capture text %}
-Our research focus is on the study of the uncultured microbiome to better understand its role in human health and disease. We apply large-scale computational methods to obtain biological insights into the hidden bacterial and viral diversity within the intestinal microbiome.
+Our research is focused on the study of the uncultured microbiome to better understand its role in human health and disease. We apply large-scale computational methods to obtain biological insights into the hidden bacterial and viral diversity within the intestinal microbiome.
 
 {%
   include link.html
