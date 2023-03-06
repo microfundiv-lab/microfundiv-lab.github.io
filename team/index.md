@@ -38,9 +38,7 @@ Qi is a visiting postdoc in the Microbiome Function and Diversity group interest
 %}
 
 {% capture text %}
-[14:39] A.C. Da Silva
 Ana is a microbiologist who has transitioned from wet to dry-lab science. In her work, she uses the lens of bioinformatics to look at biological questions from the perspective and context of the data. She has worked at the interface of basic and translational research, having explored different branches of the Tree of Life: Drosophila (undergrad and MSc in Cell and Molecular Biology – Portugal, exploring molecular basis of cold resistance), Microbes (post-doc & PhD at Nottingham, using phenotypic and genomic approaches to investigate ecology and evolution of polymicrobial chronic wounds) and Plants (MSc in Bioinformatics & post-doc at Nottingham, finding genomic factors underlying salinity tolerance). Currently Ana is using bioinformatics approaches to investigate the role of uncultured bacteria in the human gut, with the goal of understanding how the composition of the gut microbiome may influence the incidence of gut-related human diseases.
-
 {% endcapture %}
 
 {%
