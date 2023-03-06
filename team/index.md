@@ -45,7 +45,7 @@ Ana is a microbiologist who has transitioned from wet to dry-lab science. In her
   include feature.html
   image="images/anasilva.jpg"
   link="team"
-  title="Ana Silva (Postdoc)"
+  title="Ana C. da Silva (Postdoc)"
   text=text
 %}
 
