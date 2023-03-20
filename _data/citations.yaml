@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.jmb.2023.168016
+  title: 'MGnify Genomes: A Resource for Biome-specific Microbial Genome Catalogues'
+  authors:
+  - Tatiana A. Gurbich
+  - Alexandre Almeida
+  - Martin Beracochea
+  - Tony Burdett
+  - Josephine Burgin
+  - Guy Cochrane
+  - Shriya Raj
+  - Lorna Richardson
+  - Alexander B. Rogers
+  - Ekaterina Sakharova
+  - Gustavo A. Salazar
+  - Robert D. Finn
+  publisher: Journal of Molecular Biology
+  date: '2023-02-01'
+  link: https://doi.org/grx382
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022283623000724-gr3.jpg
+  _cache: ed1ec05e70e873635b7f3111b01721faf434342a55f63c92b9b63471c1433a1c
 - id: doi:10.1038/s41586-019-0965-1
   title: A new genomic blueprint of the human gut microbiota
   authors:
