@@ -227,8 +227,8 @@
   publisher: Briefings in Bioinformatics
   date: '2020-11-04'
   link: https://doi.org/ghktks
-  image: https://academic.oup.com/view-large/figure/232143116/bbaa232f3.tif
-  _cache: 73d2c2c289be2483f3bce48201dd5e7d5e7d3beb128553ccfd9297147052fe43
+  image: images/publications/sars-cov2.jpeg
+  _cache: 29e578ded353bb5345799e60906717949c51230e2f82c9ceec76f0bd9e67a0fb
 - id: doi:10.1093/gigascience/giy054
   title: Benchmarking taxonomic assignments based on 16S rRNA gene profiling of the
     microbiota from commonly sampled environments
@@ -240,8 +240,8 @@
   publisher: GigaScience
   date: '2018-05-01'
   link: https://doi.org/gfb5j7
-  image: https://academic.oup.com/view-large/figure/116928019/giy054fig1.jpg
-  _cache: 16c1143be5077792933b169af281c161c64ad2de594567e5db3e2c57e3a467f1
+  image: images/publications/taxbench.jpeg
+  _cache: 293819538fee1a82615e17d7e8d1566d01b3a08ba0273c11abff757470a06ff5
 - id: doi:10.1186/s12864-020-06807-4
   title: Phylogenomics of expanding uncultured environmental Tenericutes provides
     insights into their pathogenicity and evolutionary relationship with Bacilli
@@ -382,8 +382,8 @@
   publisher: Nucleic Acids Research
   date: '2018-10-26'
   link: https://doi.org/grcts9
-  image: https://academic.oup.com/view-large/figure/129631686/gky1013fig3.jpg
-  _cache: 68a6273f9628e62bcda6195edeb452568d8d10279acefde4a6e0877224b300fa
+  image: images/publications/genomeprop.jpeg
+  _cache: b9850459719b24c5715c3e4bdeac6f290f30d5a3597806a6a1405892d655969e
 - id: doi:10.1016/j.chom.2021.12.003
   title: The Mouse Gastrointestinal Bacteria Catalogue enables translation between
     the mouse and human gut microbiotas via functional mapping
