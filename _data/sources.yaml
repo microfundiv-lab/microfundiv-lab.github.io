@@ -23,10 +23,10 @@
   image: https://sfamjournals.onlinelibrary.wiley.com/cms/asset/8afc6fde-3e5f-46bf-9b29-b445d927aae3/emi13550-fig-0001-m.jpg
 
 - id: doi:10.1093/bib/bbaa232
-  image: https://academic.oup.com/view-large/figure/232143116/bbaa232f3.tif
+  image: "images/publications/sars-cov2.jpeg"
 
 - id: doi:10.1093/gigascience/giy054
-  image: https://academic.oup.com/view-large/figure/116928019/giy054fig1.jpg
+  image: "images/publications/taxbench.jpeg"
 
 - id: doi:10.1186/s12864-020-06807-4
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-020-06807-4/MediaObjects/12864_2020_6807_Fig1_HTML.png?as=webp
@@ -47,7 +47,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-021-01020-9/MediaObjects/41564_2021_1020_Fig1_HTML.png
 
 - id: doi:10.1093/nar/gky1013
-  image: https://academic.oup.com/view-large/figure/129631686/gky1013fig3.jpg
+  image: "images/publications/genomeprop.jpeg"
 
 - id: doi:10.1016/j.chom.2021.12.003
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763404/bin/fx1.jpg
