@@ -50,7 +50,7 @@ Ana is a microbiologist who has transitioned from wet to dry-lab science. In her
 %}
 
 {% capture text %}
-Rahul is a member of the Royal Society of Biology and a visiting PhD student in the Microbiome Function and Diversity group. He works with the brain transcriptomics to identify the shared biological pathways in neurodegeneration at the centre for misfolding diseases in his PhD at Cambridge. He is interested to understand the role of gut microbiome evolution in neurodegeneration and its impact on disease onset and progression. His project in microbiome lab is focused on using metagenomic data from a diverse group of neurodegenerative diseases to understand the links between strain level microbial abundance in human gut and how their functional pathways interact with the brain altering the transcriptomic landscape.
+Rahul is a member of the Royal Society of Biology and a visiting PhD student in the Microbiome Function and Diversity group. He works with the brain transcriptomics to identify the shared biological pathways in neurodegeneration at the centre for misfolding diseases in his PhD at Cambridge. He is interested to understand the role of gut microbiome evolution in neurodegeneration and its impact on disease onset and progression. His project is focused on using metagenomic data from a diverse group of neurodegenerative diseases to understand the links between strain level microbial abundance in human gut and how their functional pathways interact with the brain altering the transcriptomic landscape.
 {% endcapture %}
 
 {%
