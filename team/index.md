@@ -55,7 +55,7 @@ Rahul is a member of the Royal Society of Biology and a visiting PhD student in 
 
 {%
   include feature.html
-  image="images/rahul.png"
+  image="images/rahula.png"
   link="team"
   title="Rahul Arora (PhD student)"
   text=text
