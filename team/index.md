@@ -61,3 +61,15 @@ Rahul is a member of the Royal Society of Biology and a visiting PhD student in 
   text=text
 %}
 
+{% capture text %}
+Samriddhi is an undergraduate student at Trinity College Dublin who was accepted into the Amgen Scholarship programme at the University of Cambridge to develop a project in the Microbiome Function and Diversity lab. Her research aims to build a phylogenetic history of the human gut microbiome and perform comparative genomic analyses of bacterial genomes colonizing the intestinal tract of various mammalian hosts to identify host-specific and host-generalist genetic features.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/blank_profile.png"
+  link="team"
+  title="Samriddhi Gupta (Amgen Scholar)"
+  text=text
+%}
+
