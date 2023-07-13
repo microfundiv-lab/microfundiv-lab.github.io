@@ -67,7 +67,7 @@ Samriddhi is an undergraduate student at Trinity College Dublin who was accepted
 
 {%
   include feature.html
-  image="images/blank_profile.png"
+  image="images/samriddhi.jpeg"
   link="team"
   title="Samriddhi Gupta (Amgen Scholar)"
   text=text
