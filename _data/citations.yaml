@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.chom.2023.03.010
+  title: Staphylococcal diversity in atopic dermatitis from an individual to a global
+    scale
+  authors:
+  - Sara Saheb Kashaf
+  - Catriona P. Harkins
+  - Clay Deming
+  - Payal Joglekar
+  - Sean Conlan
+  - Cassandra J. Holmes
+  - Alexandre Almeida
+  - Robert D. Finn
+  - Julia A. Segre
+  - Heidi H. Kong
+  publisher: Cell Host &amp; Microbe
+  date: '2023-04-01'
+  link: https://doi.org/gsf9d9
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1931312823001142-fx1_lrg.jpg
+  _cache: 17c4f7a3a03b5016eba4000f305450ffe125a3fbe9269b396ed57c3cf393e54c
 - id: doi:10.1016/j.jmb.2023.168016
   title: 'MGnify Genomes: A Resource for Biome-specific Microbial Genome Catalogues'
   authors:
