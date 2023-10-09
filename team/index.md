@@ -62,14 +62,25 @@ Rahul is a member of the Royal Society of Biology and a visiting PhD student in 
 %}
 
 {% capture text %}
-Samriddhi is an undergraduate student at Trinity College Dublin who was accepted into the Amgen Scholarship programme at the University of Cambridge to develop a project in the Microbiome Function and Diversity lab. Her research aims to build a phylogenetic history of the human gut microbiome and perform comparative genomic analyses of bacterial genomes colonizing the intestinal tract of various mammalian hosts to identify host-specific and host-generalist genetic features.
+Samriddhi is an undergraduate student at Trinity College Dublin who was accepted into the Amgen Scholarship programme at the University of Cambridge to develop a project in the Microbiome Function and Diversity lab. Her research aims to build a phylogenetic history of the human gut microbiome and perform comparative genomic analyses of bacterial genomes colonizing the intestinal tract of various mammalian hosts to identify host-specific and host-generalist genetic features. She will also develop a research project in the MFD lab as part of her undergraduate to investigate the emergence of opportunistic pathogens in the human gut microbiome.
 {% endcapture %}
 
 {%
   include feature.html
   image="images/samriddhi.jpeg"
   link="team"
-  title="Samriddhi Gupta (Amgen Scholar)"
+  title="Samriddhi Gupta (BSc student/Amgen Scholar)"
   text=text
 %}
 
+{% capture text %}
+Luis is a PhD student at the Wellcome Sanger Institute, currently performing his PhD project at the Microbiome Function and Diversity group at the University of Cambridge. Luis was trained as a biologist at Universidad Peruana Cayetano Heredia before receiving graduate training in genomics at Sanger. During his MPhil at the Lawley group, he constructed the most extensive Bifidobacterium breve collection to date to understand its phylogenetic diversity and relationship with its host. In his PhD, he is researching the composition, diversity, and functionality of the respiratory microbiome and how they play a role in the host’s health status. Luis is interested in building resources for developing better treatments to tackle public health problems.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/luis.png"
+  link="team"
+  title="Luis Gonzalez (PhD Student)"
+  text=text
+%}
