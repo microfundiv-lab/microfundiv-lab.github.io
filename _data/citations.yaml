@@ -593,8 +593,8 @@
   link: https://doi.org/grcttm
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40168-021-01207-6/MediaObjects/40168_2021_1207_Fig1_HTML.png?as=webp
   _cache: a9c2666da1cff7ed1e4ac59fbd3670b416fded84fc229ba9e056664ce287cea2
-- id: doi:10.1101/2022.08.22.504484
-  title: 'VIRify: an integrated detection, annotation and taxonomic classification
+- id: doi:10.1371/journal.pcbi.1011422
+  title: 'VIRify: An integrated detection, annotation and taxonomic classification
     pipeline using virus-specific protein profile hidden Markov models'
   authors:
   - Guillermo Rangel-Pineros
@@ -605,8 +605,8 @@
   - "Alejandro Reyes Mu\xF1oz"
   - "Martin H\xF6lzer"
   - Robert D. Finn
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-08-22'
-  link: https://doi.org/grcttn
+  publisher: PLOS Computational Biology
+  date: '2023-08-28'
+  link: https://doi.org/gs7gvv
   image: https://www.biorxiv.org/content/biorxiv/early/2022/08/22/2022.08.22.504484/F1.large.jpg
-  _cache: 410d918ea47e5534c96f1ac3a2e0befce020522416ea64f3e45463c678344ede
+  _cache: 2ad077a646e0c233e91fb429bce0f858c0d9daa5fbc10ca00dbeb11aab0e9c74
