@@ -36,7 +36,7 @@ Our research is focused on the study of the uncultured microbiome to better unde
 %}
 
 {% capture text %}
-We are a small, but enthusiastic team. Click below if you want to find out more about our individual research interests.
+We are a multicultural and interdisciplinary team. Click below if you want to find out more about our individual research interests.
 
 {%
   include link.html
