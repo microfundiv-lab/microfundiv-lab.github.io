@@ -13,7 +13,7 @@ Therefore, our research group develops and applies large-scale, high-resolution 
 
 * Which uncultured microbiome species are the most clinically relevant?
 * What is the role of the gut microbiome in ageing and neurodegeneration?
-* How does the gut microbiome control pathogen colonization?
+* How does the gut microbiome influence pathogen colonization and evolution?
 * Can viruses and bacteriophages be used as biomarkers of health and disease?
 * How does the multi-kingdom microbiome differ across human body sites?
 
