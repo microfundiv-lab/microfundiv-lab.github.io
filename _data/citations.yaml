@@ -1,6 +1,63 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s42523-024-00318-3
+  title: Gut microbiota and immune profiling of microbiota-humanised versus wildtype
+    mouse models of hepatointestinal schistosomiasis
+  authors:
+  - K. A. Stark
+  - G. Rinaldi
+  - A. Costain
+  - S. Clare
+  - C. Tolley
+  - A. Almeida
+  - C. McCarthy
+  - K. Harcourt
+  - C. Brandt
+  - T. D. Lawley
+  - M. Berriman
+  - A. S. MacDonald
+  - J. E. Forde-Thomas
+  - B. J. Hulme
+  - K. F. Hoffmann
+  - C. Cantacessi
+  - "A. Cort\xE9s"
+  publisher: Animal Microbiome
+  date: '2024-06-25'
+  link: https://doi.org/gt53h7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs42523-024-00318-3/MediaObjects/42523_2024_318_Fig1_HTML.png
+  _cache: 0a9883c1c29bf45549a10b9cdb1a722fe7544096fc52662c960b284fe199556a
+- id: doi:10.1111/imcb.12798
+  title: "Integrating functional metagenomics to decipher microbiome\u2013immune interactions"
+  authors:
+  - Puspendu Sardar
+  - Alexandre Almeida
+  - Virginia A Pedicord
+  publisher: Immunology &amp; Cell Biology
+  date: '2024-07-02'
+  link: https://doi.org/gt53h8
+  image: https://onlinelibrary.wiley.com/cms/asset/ccffbf8c-6490-4ed8-95e2-72565b129444/imcb12798-fig-0001-m.jpg
+  _cache: 5cf5621202cedb52553e0ca4b9cf0c4459a88cab2d759ac0dd648fe6cb44b774
+- id: doi:10.1038/s41467-024-45793-z
+  title: A metagenomic catalog of the early-life human gut virome
+  authors:
+  - Shuqin Zeng
+  - Alexandre Almeida
+  - Shiping Li
+  - Junjie Ying
+  - Hua Wang
+  - Yi Qu
+  - R. Paul Ross
+  - Catherine Stanton
+  - Zhemin Zhou
+  - Xiaoyu Niu
+  - Dezhi Mu
+  - Shaopu Wang
+  publisher: Nature Communications
+  date: '2024-02-29'
+  link: https://doi.org/gt53h9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-45793-z/MediaObjects/41467_2024_45793_Fig1_HTML.png?as=webp
+  _cache: ce7412e002d2865b8615332a4f0a5f415f59ebcdb4c51ebcc5a14b3f0bdf291c
 - id: doi:10.1016/j.chom.2023.03.010
   title: Staphylococcal diversity in atopic dermatitis from an individual to a global
     scale
