@@ -9,12 +9,13 @@ nav:
 
 Our intestinal tract is colonized by a vast diversity of microbes that make up what is known as the human gut microbiome. With the advent of high-throughput DNA sequencing, the study of the human gut microbiome has emerged as a new frontier of biomedical research. Notably, a strong link between the human gut microbiome composition and various aspects of human health is being increasingly recognized. However, thousands of bacterial species ([Almeida et al. Nature 2019](https://www.nature.com/articles/s41586-019-0965-1) and [Almeida et al. Nat. Biotechnol. 2021](https://www.nature.com/articles/s41587-020-0603-3)) and viruses ([Camarillo-Guerrero et al. Cell 2021](https://www.sciencedirect.com/science/article/pii/S0092867421000726)) in the human gut microbiome are largely unknown, as they remain difficult to culture and experimentally characterize in the lab. This technical limitation represents a major hurdle to understanding the biological mechanisms and beneficial role of the gut microbiome in host health.
 
-Funded by an [MRC Career Development Award](https://www.ukri.org/councils/mrc/fellowships/fellowship-opportunities-and-expectations/mrc-funded-fellowships/), our research group combines computational and experimental approaches to understand the biological role of hidden gut microbes across multiple kingdoms (including bacteria, viruses and archaea), and to explore their antimicrobial potential. 
-Our main focus areas are:
+Therefore, our research group applies large-scale, high-resolution metagenomic approaches to understand the biological role of hidden gut microbes across multiple kingdoms (including bacteria, viruses and archaea) to explore their impact on human health. Some of the key questions we are addressing are:
 
-* Applying large-scale (meta)genomics techniques to investigate health-associated features and host-adaptive traits of the uncultured microbiome.
-* Develop targeted methods to cultivate novel members of the gut microbiome and enable further mechanistic investigations.
-* Combine in silico predictions with experimental validation to discover new gut-derived compounds with antimicrobial activity.
+* Which uncultured species within the gut microbiome have the greatest impact on our health?
+* How does the human gut microbiome control the colonization and expansion of opportunistic pathogens?
+* Can viruses and bacteriophages be used as accurate biomarkers of different health states?
+* How does the multi-kingdom human microbiome differ across various body sites?
+* What is the role of the human microbiome in ageing and neurodegeneration?
 
 By providing an integrated view of the physiology and functions of the commensal microbiome, we seek to improve our understanding of their role in human health and open new avenues to develop innovative therapeutic applications.
 
