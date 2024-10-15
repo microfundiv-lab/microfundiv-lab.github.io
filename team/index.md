@@ -26,6 +26,30 @@ Alex is an MRC Career Development Fellow leading the Microbiome Function and Div
 %}
 
 {% capture text %}
+Efrat is a postdoc in the Microbiome Function and Diversity group interested in the understudied components of the gut microbiome, particularly bacteriophages. She completed her PhD at the Borenstein lab (Tel Aviv University, School of Computer Science), studying computational approaches for integrating multi-omic data in the context of the human microbiome. Prior to her PhD, Efrat worked at Medial EarlySign and at Intel, using data-science to tackle healthcare challenges.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/efrat.png"
+  link="team"
+  title="Efrat Muller (Postdoc)"
+  text=text
+%}
+
+{% capture text %}
+Luis is a PhD student at the Wellcome Sanger Institute, currently performing his PhD project at the Microbiome Function and Diversity group at the University of Cambridge. Luis was trained as a biologist at Universidad Peruana Cayetano Heredia before receiving graduate training in genomics at Sanger. During his MPhil at the Lawley group, he constructed the most extensive Bifidobacterium breve collection to date to understand its phylogenetic diversity and relationship with its host. In his PhD, he is researching the composition, diversity, and functionality of the respiratory microbiome and how they play a role in the host’s health status. Luis is interested in building resources for developing better treatments to tackle public health problems.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/luis.png"
+  link="team"
+  title="Luis Gonzalez (PhD Student)"
+  text=text
+%}
+
+{% capture text %}
 Qi is a visiting postdoc in the Microbiome Function and Diversity group interested in the discovery of novel probiotics and antimicrobials in the human gut microbiome. She finished her PhD in 2016 at the University of Chinese Academy Sciences and was a postdoc until 2020 when she began her appointment as an Associate Professor at the Chongqing Medical University. Her current research interests centre around the study of host-microbe interactions in the lung/gut microbiome, the molecular mechanisms of bacterial infection and development of novel antimicrobial agents.
 {% endcapture %}
 
@@ -46,18 +70,6 @@ Rahul is a member of the Royal Society of Biology and a visiting PhD student in 
   image="images/rahula.png"
   link="team"
   title="Rahul Arora (PhD student)"
-  text=text
-%}
-
-{% capture text %}
-Luis is a PhD student at the Wellcome Sanger Institute, currently performing his PhD project at the Microbiome Function and Diversity group at the University of Cambridge. Luis was trained as a biologist at Universidad Peruana Cayetano Heredia before receiving graduate training in genomics at Sanger. During his MPhil at the Lawley group, he constructed the most extensive Bifidobacterium breve collection to date to understand its phylogenetic diversity and relationship with its host. In his PhD, he is researching the composition, diversity, and functionality of the respiratory microbiome and how they play a role in the host’s health status. Luis is interested in building resources for developing better treatments to tackle public health problems.
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/luis.png"
-  link="team"
-  title="Luis Gonzalez (PhD Student)"
   text=text
 %}
 
