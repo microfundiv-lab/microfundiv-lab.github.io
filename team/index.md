@@ -38,6 +38,18 @@ Efrat is a postdoc in the Microbiome Function and Diversity group interested in 
 %}
 
 {% capture text %}
+Jacob is an MPhil student in Biotechnology at the University of Cambridge, working with the Microbiome Function and Diversity group. Inspired by breakthroughs like AlphaFold's impact on protein structure prediction, he transitioned slowly to biotechnology to explore new frontiers where computational approaches can advance more ubiquitous problems. Prior to joining Cambridge, he worked as a Research Software Engineer at Ingram Micro, where he architected backend systems and APIs for insights and recommendations, developing expertise in cloud infrastructure, API design, and software architecture. With an MSc in Computer Science from University College London and a BSc in Economics from the University of Utah, he brings a unique interdisciplinary background combining software engineering, data science, and biotechnology.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/jacob.jpg"
+  link="team"
+  title="Jacob Lapkin (MPhil student)"
+  text=text
+%}
+
+{% capture text %}
 Luis is a PhD student at the Wellcome Sanger Institute, currently performing his PhD project at the Microbiome Function and Diversity group at the University of Cambridge. Luis was trained as a biologist at Universidad Peruana Cayetano Heredia before receiving graduate training in genomics at Sanger. During his MPhil at the Lawley group, he constructed the most extensive Bifidobacterium breve collection to date to understand its phylogenetic diversity and relationship with its host. In his PhD, he is researching the composition, diversity, and functionality of the respiratory microbiome and how they play a role in the host’s health status. Luis is interested in building resources for developing better treatments to tackle public health problems.
 {% endcapture %}
 
@@ -45,7 +57,7 @@ Luis is a PhD student at the Wellcome Sanger Institute, currently performing his
   include feature.html
   image="images/luis.png"
   link="team"
-  title="Luis Gonzalez (PhD Student)"
+  title="Luis Gonzalez (PhD student)"
   text=text
 %}
 
