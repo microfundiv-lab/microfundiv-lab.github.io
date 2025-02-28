@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41564-024-01912-6
+  title: Ecological dynamics of Enterobacteriaceae in the human gut microbiome across
+    global populations
+  authors:
+  - Qi Yin
+  - Ana C. da Silva
+  - Francisco Zorrilla
+  - Ana S. Almeida
+  - Kiran R. Patil
+  - Alexandre Almeida
+  publisher: Nature Microbiology
+  date: '2025-01-10'
+  link: https://doi.org/g86pv3
+  _cache: 52ef004de3702e5891910ce955231d1f236493ae028224b6182afc94b7f60915
 - id: doi:10.1101/2024.12.17.628241
   title: Integration of metagenome-assembled genomes with clinical isolates reveals
     genomic signatures of<i>Klebsiella pneumoniae</i>in carriage and disease
@@ -84,8 +98,8 @@
   publisher: Nature Communications
   date: '2024-02-29'
   link: https://doi.org/gt53h9
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-45793-z/MediaObjects/41467_2024_45793_Fig1_HTML.png?as=webp
-  _cache: ce7412e002d2865b8615332a4f0a5f415f59ebcdb4c51ebcc5a14b3f0bdf291c
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-45793-z/MediaObjects/41467_2024_45793_Fig1_HTML.png
+  _cache: 0e52397d123f746b1e001949539f9d800accc9acebd02cb616b51201bed1925a
 - id: doi:10.1016/j.chom.2023.03.010
   title: Staphylococcal diversity in atopic dermatitis from an individual to a global
     scale
