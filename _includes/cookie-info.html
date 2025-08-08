@@ -6,44 +6,36 @@
 </div>
 
 <script>
-(function () {
-  var KEY = "cookie_info_v1";
-  var dismissed = false;
+  (function () {
+    var KEY = "cookie_info_v1";
+    var dismissed = false;
 
-  try {
-    dismissed = localStorage.getItem(KEY) === "dismissed";
-    console.log("Cookie banner status:", dismissed ? "already dismissed" : "not dismissed");
-  } catch (e) {
-    console.warn("localStorage access failed:", e);
-  }
-
-  var el = document.getElementById("cookie-info");
-  if (!el) {
-    console.warn("Banner element not found.");
-    return;
-  }
-
-  if (dismissed) {
-    el.remove(); // Don't just hide — remove from DOM
-    return;
-  }
-
-  el.hidden = false;
-
-  var btn = el.querySelector(".cookie-info__close");
-  if (!btn) {
-    console.warn("Dismiss button not found.");
-    return;
-  }
-
-  btn.addEventListener("click", function () {
-    el.remove();
     try {
-      localStorage.setItem(KEY, "dismissed");
-      console.log("Cookie banner dismissed and saved.");
+      dismissed = localStorage.getItem(KEY) === "dismissed";
     } catch (e) {
-      console.warn("Failed to write to localStorage:", e);
+      console.warn("localStorage error:", e);
     }
-  });
-})();
+
+    var el = document.getElementById("cookie-info");
+    if (!el) return;
+
+    if (dismissed) {
+      el.style.display = "none";
+      return;
+    }
+
+    el.hidden = false;
+
+    var btn = el.querySelector(".cookie-info__close");
+    if (!btn) return;
+
+    btn.addEventListener("click", function () {
+      el.style.display = "none";
+      try {
+        localStorage.setItem(KEY, "dismissed");
+      } catch (e) {
+        console.warn("Failed to save to localStorage:", e);
+      }
+    });
+  })();
 </script>
