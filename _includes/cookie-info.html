@@ -1,7 +1,6 @@
 <div id="cookie-info" class="cookie-info" role="region" aria-label="Cookie notice" hidden>
   <p>
     We use only essential cookies to make this site work. No tracking, analytics, or advertising cookies.
-    <a href="/cookie-policy/">Learn more</a>
   </p>
   <button class="cookie-info__close" type="button" aria-label="Dismiss cookie notice">OK</button>
 </div>
@@ -9,15 +8,25 @@
 <script>
   (function () {
     var KEY = "cookie_info_v1";
+    var dismissed = false;
+
+    try {
+      dismissed = localStorage.getItem(KEY) === "dismissed";
+    } catch (e) {
+      console.warn("localStorage not available.");
+    }
+
+    if (dismissed) return; // Exit early — don't show banner again
+
     var el = document.getElementById("cookie-info");
     if (!el) return;
-    try {
-      if (localStorage.getItem(KEY) === "dismissed") return;
-    } catch (e) {}
 
     el.hidden = false;
 
-    el.querySelector(".cookie-info__close").addEventListener("click", function () {
+    var btn = el.querySelector(".cookie-info__close");
+    if (!btn) return;
+
+    btn.addEventListener("click", function () {
       el.remove();
       try {
         localStorage.setItem(KEY, "dismissed");
