@@ -67,7 +67,7 @@ Bhim is a visiting postdoc in the Microbiome Function and Diversity Group, where
 
 {%
   include feature.html
-  image="images/bhim.jpeg"
+  image="images/bhim.jpg"
   link="team"
   title="Bhim Biswa (Postdoc)"
   text=text
