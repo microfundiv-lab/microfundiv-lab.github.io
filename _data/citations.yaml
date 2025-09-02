@@ -1,6 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.cmet.2025.02.003
+  title: 'Embracing the unknown: Proteomic insights into the human microbiome'
+  authors:
+  - Shuqin Zeng
+  - Alexandre Almeida
+  - Dezhi Mu
+  - Shaopu Wang
+  publisher: Cell Metabolism
+  date: '2025-04-01'
+  link: https://doi.org/g9z9cz
+  image: https://www.cell.com/cms/10.1016/j.cmet.2025.02.003/asset/71ef0be5-d4a0-4778-95bf-93d0a9c77099/main.assets/gr1_lrg.jpg
+  _cache: dde027b7e08ca784a2779a414731b484570a33ed63b5b9c28828a6a31f885a22
+- id: doi:10.1038/s41467-025-61152-y
+  title: Global dissemination of npmA mediated pan-aminoglycoside resistance via a
+    mobile genetic element in Gram-positive bacteria
+  authors:
+  - Carlos Serna
+  - Bosco R. Matamoros
+  - Mario Pulido-Vadillo
+  - Jose F. Delgado-Blas
+  - Rogier R. Jansen
+  - Rob J. L. Willems
+  - Alexandre Almeida
+  - Ewan M. Harrison
+  - Bruno Dupuy
+  - Francesc Coll
+  - Bruno Gonzalez-Zorn
+  publisher: Nature Communications
+  date: '2025-07-17'
+  link: https://doi.org/g9z9c2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61152-y/MediaObjects/41467_2025_61152_Fig1_HTML.png
+  _cache: e6abac734437da3552f34f3f7e69fc4a37b34c55783c7606acc38e7b4c6eed1d
 - id: doi:10.1038/s41564-024-01912-6
   title: Ecological dynamics of Enterobacteriaceae in the human gut microbiome across
     global populations
