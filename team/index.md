@@ -7,7 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-If you are interested in joining our team feel free to [get in touch](https://microfundiv-lab.github.io/contact/) with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. For prospective PhD candidates, additional info on the application process for the PhD in Biological Sciences at the University of Cambridge can be found [here](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvvtpdveb/apply).
+If you are interested in joining our team feel free to [get in touch](https://microfundiv-lab.github.io/contact/) with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. 
+
+Note: For prospective PhD candidates, we currently have a fully-funded PhD studentship available for application as part of the BBSRC DTP Programme (Targeted studentship). Deadline closes December 2nd, 2025. You can find more details [here](https://bbsrcdtp.lifesci.cam.ac.uk/how-apply).
 
 {% include section.html %}
 
