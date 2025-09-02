@@ -9,7 +9,7 @@ nav:
 
 If you are interested in joining our team feel free to [get in touch](https://microfundiv-lab.github.io/contact/) with a CV and cover letter/statement explaining your interest in our research, so we can discuss future opportunities. 
 
-<b>Note: For prospective PhD candidates, we currently have a fully-funded PhD studentship available for application as part of the BBSRC DTP Programme (Targeted studentship, Project: TRG-VET-AA26). Deadline closes December 2nd, 2025. You can find more details [here](https://bbsrcdtp.lifesci.cam.ac.uk/how-apply).</b>
+<b>Note: For prospective PhD candidates, we currently have a fully-funded PhD studentship available for application as part of the Cambridge Biosciences DTP PhD Programme (Targeted studentship, Project: TRG-VET-AA26). Deadline: December 2nd, 2025. You can find more details [here](https://bbsrcdtp.lifesci.cam.ac.uk/how-apply).</b>
 
 {% include section.html %}
 
