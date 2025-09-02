@@ -1,3 +1,9 @@
+- id: doi:10.1016/j.cmet.2025.02.003
+  image: https://www.cell.com/cms/10.1016/j.cmet.2025.02.003/asset/71ef0be5-d4a0-4778-95bf-93d0a9c77099/main.assets/gr1_lrg.jpg
+
+- id: doi:10.1038/s41467-025-61152-y
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61152-y/MediaObjects/41467_2025_61152_Fig1_HTML.png
+
 - id: doi:10.1038/s41564-024-01912-6
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-024-01912-6/MediaObjects/41564_2024_1912_Fig1_HTML.png
 
