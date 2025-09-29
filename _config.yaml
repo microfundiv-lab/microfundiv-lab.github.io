@@ -2,7 +2,7 @@
 
 # site properties and page defaults
 description: Website for the Microbiome Function and Diversity lab at the University of Cambridge.
-logo: images/logo.svg
+logo: images/MFD_logo_simple.svg
 header: images/department_hd.jpg
 footer: images/microdna.jpg
 baseurl: ""
