@@ -1,5 +1,6 @@
 ---
 title: Home
+header-dark: false
 ---
 
 # Microbiome Function and Diversity lab
