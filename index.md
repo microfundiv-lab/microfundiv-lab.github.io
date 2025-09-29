@@ -27,7 +27,7 @@ We are a multicultural and interdisciplinary team. Click below if you want to fi
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team1.jpg"
   link="team"
   title="Our Team"
   text=text
@@ -48,7 +48,7 @@ Our research is focused on the study of the uncultured microbiome to better unde
 
 {%
   include feature.html
-  image="images/tree.png"
+  image="images/tree1.png"
   link="research"
   title="Our Research"
   text=text
