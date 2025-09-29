@@ -2,6 +2,8 @@
 title: Home
 ---
 
+# Microbiome Function and Diversity Lab
+
 Website of the Microbiome Function and Diversity lab at the University of Cambridge, led by [Dr Alexandre Almeida](https://www.vet.cam.ac.uk/staff/dr-alexandre-almeida).
 
 {:.center}
