@@ -45,7 +45,7 @@ Luis is a PhD student at the Wellcome Sanger Institute, currently performing his
 
 {%
   include feature.html
-  image="images/luisg.png"
+  image="images/lgonzalez.jpg"
   link="team"
   title="Luis Gonzalez (PhD student)"
   text=text
