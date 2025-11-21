@@ -52,6 +52,19 @@ Luis is a PhD student at the Wellcome Sanger Institute, currently performing his
 %}
 
 {% capture text %}
+Miguel is an MPhil student in Biotechnology at the University of Cambridge, working in the Microbiome Function and Diversity lab. His research focuses on applying machine learning approaches to uncover the clinical relevance of human gut viruses. Prior to this, he completed a Bachelor's degree in Bioengineering at the Université Libre de Bruxelles. During his undergraduate studies, Miguel led a research project in the Crop Production and Biostimulation Laboratory working on traits associated with nitrogen use efficiency in A. thaliana. To transition into biomedical research, he also completed a research internship in the Maier Group at the University of Basel, where he contributed to the study of mTOR 1 substrate interactions using protein interaction assays and Cryo-EM. With his interdisciplinary background, Miguel is motivated to use advanced technologies with complex biological data to develop treatments for underresearched diseases.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/mchantelot.jpg"
+  link="team"
+  title="Miguel Chantelot (MPhil student)"
+  text=text
+%}
+
+
+{% capture text %}
 Qi is a visiting postdoc in the Microbiome Function and Diversity group interested in the discovery of novel probiotics and antimicrobials in the human gut microbiome. She finished her PhD in 2016 at the University of Chinese Academy Sciences and was a postdoc until 2020 when she began her appointment as an Associate Professor at the Chongqing Medical University. Her current research interests centre around the study of host-microbe interactions in the lung/gut microbiome, the molecular mechanisms of bacterial infection and development of novel antimicrobial agents.
 {% endcapture %}
 
