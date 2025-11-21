@@ -1,6 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41467-025-64950-6
+  title: Integration of metagenome-assembled genomes with clinical isolates expands
+    the genomic landscape of gut-associated Klebsiella pneumoniae
+  authors:
+  - Samriddhi Gupta
+  - Alexandre Almeida
+  publisher: Nature Communications
+  date: '2025-11-12'
+  link: https://doi.org/hbb44b
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-64950-6/MediaObjects/41467_2025_64950_Fig1_HTML.png
+  _cache: f74133ab73194634d6e64f8859f077755e352e3fa3e42bdab52611704797280f
+- id: doi:10.1016/j.celrep.2025.116573
+  title: 'From sporulation to village differentiation: The shaping of the social microbiome
+    over rural-to-urban lifestyle transition in Indonesia'
+  authors:
+  - Clarissa A. Febinia
+  - Hirzi Luqman
+  - Pradiptajati Kusuma
+  - Lidwina Priliani
+  - Joseph Lewis
+  - Desak Made Wihandani
+  - Gde Ngurah Pinatih
+  - Herawati Sudoyo
+  - Alexandre Almeida
+  - Safarina G. Malik
+  - Guy S. Jacobs
+  publisher: Cell Reports
+  date: '2025-11-01'
+  link: https://doi.org/hbb44c
+  image: https://www.cell.com/cms/10.1016/j.celrep.2025.116573/asset/395da2be-ca80-48b6-8812-9f8dbcd3a985/main.assets/fx1_lrg.jpg
+  _cache: 7ef9a0ede81d176d056079e5e943836adfd518368f37033082d5dde50c4c4837
 - id: doi:10.1016/j.cmet.2025.02.003
   title: 'Embracing the unknown: Proteomic insights into the human microbiome'
   authors:
@@ -48,17 +79,6 @@
   link: https://doi.org/g86pv3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-024-01912-6/MediaObjects/41564_2024_1912_Fig1_HTML.png
   _cache: 80c1a40cde99ac218f83a7e06f6fe52cbd6628f6b0608adce21248988b341dec
-- id: doi:10.1101/2024.12.17.628241
-  title: Integration of metagenome-assembled genomes with clinical isolates reveals
-    genomic signatures of<i>Klebsiella pneumoniae</i>in carriage and disease
-  authors:
-  - Samriddhi Gupta
-  - Alexandre Almeida
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-12-18'
-  link: https://doi.org/g8wns4
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/12/18/2024.12.17.628241/F1.large.jpg
-  _cache: ee0de6c4ae5da8f2ad86b9ce301a2d837de63bccd6480a5e979423f041d91879
 - id: doi:10.1186/s42523-024-00318-3
   title: Gut microbiota and immune profiling of microbiota-humanised versus wildtype
     mouse models of hepatointestinal schistosomiasis
