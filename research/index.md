@@ -13,7 +13,6 @@ Our research group develops and applies large-scale, high-resolution metagenomic
 
 * How does the gut microbiome influence pathogen colonization and evolution?
 * What is the clinical relevance of the uncultured microbiome?
-* How does the gut microbiome affect ageing and neurodegeneration?
 * Can viruses and bacteriophages be used as biomarkers of health and disease?
 * How does the multi-kingdom microbiome differ across human body sites?
 
