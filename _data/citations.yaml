@@ -1,6 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.chom.2026.01.013
+  title: Meta-analysis of the uncultured gut microbiome across 11,115 global metagenomes
+    reveals a candidate signature of health
+  authors:
+  - Ana C. da Silva
+  - Jacob Lapkin
+  - Qi Yin
+  - Efrat Muller
+  - Alexandre Almeida
+  publisher: Cell Host &amp; Microbe
+  date: '2026-02-01'
+  link: https://doi.org/hbq5s4
+  image: https://www.cell.com/cms/10.1016/j.chom.2026.01.013/asset/9fda9a5a-ef54-4de7-92f6-f1764c47beac/main.assets/gr1_lrg.jpg
+  _cache: fec42a2eb0e00435aec84494de46bf467b77d65ab78c6a3741d4e8c3b89fb5ca
+- id: doi:10.1080/19490976.2026.2612836
+  title: 'The human gut microbiome in enteric infections: from association to translation'
+  authors:
+  - Qi Yin
+  - Samriddhi Gupta
+  - Efrat Muller
+  - Alexandre Almeida
+  publisher: Gut Microbes
+  date: '2026-01-11'
+  link: https://doi.org/hbq5s5
+  image: https://www.tandfonline.com/cms/asset/21a8f483-f267-4c0c-84cc-003a93787d20/kgmi_a_2612836_f0001_c.jpg
+  _cache: 5f841ad99af9caa07f15c711a025816669b85b289269fa058b070cc5a76f3046
 - id: doi:10.1038/s41467-025-64950-6
   title: Integration of metagenome-assembled genomes with clinical isolates expands
     the genomic landscape of gut-associated Klebsiella pneumoniae
