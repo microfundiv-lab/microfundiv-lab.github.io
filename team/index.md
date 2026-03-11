@@ -86,6 +86,18 @@ Bhim is a visiting postdoc in the Microbiome Function and Diversity Group, where
   text=text
 %}
 
+{% capture text %}
+Augustė is an MPhil student in Genomic Medicine at the University of Cambridge conducting her research project in the Microbiome Function and Diversity group. She previously completed a BSc in Biochemistry at Imperial College London, where she developed an interest in genomics and host-microbiome interactions. Her current project combines bioinformatics and population genomics to investigate the diversity and prevalence of an uncultured bacterial genus from the human gut microbiome. Augustė is interested in contributing to a better understanding of how human and microbial genomics can be leveraged to improve human health.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/auguste.jpg"
+  link="team"
+  title="Agnė Augustė Vėgėlytė (MPhil student)"
+  text=text
+%}
+
 # Alumni
 
 {% capture text %}
