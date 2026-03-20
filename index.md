@@ -29,7 +29,7 @@ We are a multicultural and interdisciplinary team. Click below if you want to fi
 
 {%
   include feature.html
-  image="images/team1.jpg"
+  image="images/MFD_photo.jpeg"
   link="team"
   title="Our Team"
   text=text
