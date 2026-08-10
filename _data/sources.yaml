@@ -4,6 +4,12 @@
 - id: doi:10.1080/19490976.2026.2612836
   image: https://www.tandfonline.com/cms/asset/21a8f483-f267-4c0c-84cc-003a93787d20/kgmi_a_2612836_f0001_c.jpg
 
+- id: doi:10.1016/j.lanmic.2026.101388
+  image: https://www.thelancet.com/cms/10.1016/j.lanmic.2026.101388/asset/5d09cf2b-24d0-4a1d-998a-3ec70932c205/main.assets/gr3_lrg.jpg
+
+- id: doi:10.1016/j.lanmic.2026.101389
+  image: https://www.thelancet.com/cms/10.1016/j.lanmic.2026.101389/asset/17cd263e-196d-422b-833f-778fd0b5822e/main.assets/gr2_lrg.jpg
+
 - id: doi:10.1038/s41467-025-64950-6
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-64950-6/MediaObjects/41467_2025_64950_Fig1_HTML.png
 

@@ -36,12 +36,12 @@ We are a multicultural and interdisciplinary team. Click below if you want to fi
 %}
 
 {% capture text %}
-Our research is focused on the study of the uncultured microbiome to better understand its role in human health and disease. We apply large-scale computational methods to obtain biological insights into the hidden multi-kingdom diversity within the human microbiome.
+Our research is focused on the study of the hidden microbiome to better understand its role in human health and disease. We develop and apply large-scale computational approaches to obtain biological insights that can aid the development of microbiome-based diagnostic and therapeutic strategies.
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Learn more about our research"
   icon="fas fa-arrow-right"
   flip=true
 %}
