@@ -27,6 +27,31 @@
   link: https://doi.org/hbq5s5
   image: https://www.tandfonline.com/cms/asset/21a8f483-f267-4c0c-84cc-003a93787d20/kgmi_a_2612836_f0001_c.jpg
   _cache: 5f841ad99af9caa07f15c711a025816669b85b289269fa058b070cc5a76f3046
+- id: doi:10.1016/j.lanmic.2026.101388
+  title: Temporal variations of the gut microbiome in human health
+  authors:
+  - Shuqin Zeng
+  - Alexandre Almeida
+  - Dezhi Mu
+  - Shaopu Wang
+  publisher: The Lancet Microbe
+  date: '2026-05-01'
+  link: https://doi.org/hcd8d9
+  image: https://www.thelancet.com/cms/10.1016/j.lanmic.2026.101388/asset/5d09cf2b-24d0-4a1d-998a-3ec70932c205/main.assets/gr3_lrg.jpg
+  _cache: df070490ee90e6335bb6ac5aae49d6b0c0018fc1e94c8685e2773032de1e6be8
+- id: doi:10.1016/j.lanmic.2026.101389
+  title: Spatially resolved architecture of the human gut microbiome and its health
+    implications
+  authors:
+  - Shaopu Wang
+  - Alexandre Almeida
+  - Dezhi Mu
+  - Shuqin Zeng
+  publisher: The Lancet Microbe
+  date: '2026-05-01'
+  link: https://doi.org/hcd8fb
+  image: https://www.thelancet.com/cms/10.1016/j.lanmic.2026.101389/asset/17cd263e-196d-422b-833f-778fd0b5822e/main.assets/gr2_lrg.jpg
+  _cache: 69a3202b59976c89b192f99401803a2904943d7ce5323e5c2e957ec1e426dd0f
 - id: doi:10.1038/s41467-025-64950-6
   title: Integration of metagenome-assembled genomes with clinical isolates expands
     the genomic landscape of gut-associated Klebsiella pneumoniae
