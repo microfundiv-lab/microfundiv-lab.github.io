@@ -25,9 +25,9 @@ If you are interested in joining our team feel free to get in touch with a CV an
   include link.html
   type="phone"
   icon=""
-  text="+44 (0) 1223 337650"
+  text="+44 (0) 1223 337701"
   tooltip=""
-  link="+44-1223-337650"
+  link="+44-1223-337701"
   style="button"
 %}
 {%
